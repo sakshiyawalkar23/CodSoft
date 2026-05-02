@@ -21,5 +21,8 @@ A GUI-based task management application to add, update, complete, and delete dai
 3. Open any project folder
 4. Install requirements (if available):
 
+## Author
+sakshiyawalkar
+
 ```bash id="p0kz5n"
 pip install -r requirements.txt
